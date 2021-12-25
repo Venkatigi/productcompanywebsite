@@ -586,12 +586,22 @@ Contact Us Page:
 
 ### Home Page:
 
-![Home](1.png)
-![Products1](2.png)
-![Products2](3.png)
-![Products3](4.png)
-![People](5.png)
-![contactus](6.png)
+![Home](1.jpg)
+
+### Product Page:
+
+![Products1](2.jpg)
+![Products2](3.jpg)
+![Products3](4.jpg)
+
+### People Page:
+
+![People](5.jpg)
+
+### Contact Page:
+
+![contactus](6.jpg)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML ,  CSS code are validated.
