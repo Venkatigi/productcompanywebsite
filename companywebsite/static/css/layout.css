@@ -63,12 +63,12 @@ body {
 .content {
     display: block;
     width: 100%;
-    background-color: #cffffd;
+    background-color: #ffffff;
     min-height: 500px;
     margin: 0px 0px 0px 0px;
     border-width: 1px;
-    border-color: white;
-    border-style: solid;
+    border-color: rgb(126, 123, 123);
+    border-style: none;
 }
 
 .homecontent {
@@ -136,12 +136,12 @@ body {
 .footer {
     display: block;
     width: 100%;
-    height: 40px;
-    background-color: #5bb045;
+    height: 310px;
+    background-color: #542b5b;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 275px;
     margin: 0px 0px 0px 0px;
-    color: #9c1018;
+    color: #ffffff;
 }
 
 .ll {
@@ -160,4 +160,24 @@ body {
 .ll:hover {
     background-color: #542b5b;
     color: #ffffff;
+}
+
+.ld {
+    display: inline-block;
+    width: fit-content;
+    height: 3px;
+    background-color: black;
+}
+
+.banner1 {
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-size: 60px;
+    background-image: url("/static/img/banner1.jpg");
+    background-size: 100% 100%;
+    margin: 0px 0px 0px 0px;
+    padding-top: 0px;
+    color: #16d1ae;
 }
