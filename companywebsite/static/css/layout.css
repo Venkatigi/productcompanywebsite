@@ -113,8 +113,8 @@ body {
 }
 
 .productitem img {
-    width: 300px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     display: block;
 }
 
@@ -197,7 +197,29 @@ body {
 .footer2 {
     display: block;
     width: 100%;
+    height: 200px;
+    background-color: #542b5b;
+    text-align: center;
+    padding-top: 170px;
+    margin: 0px 0px 0px 0px;
+    color: #ffffff;
+}
+
+.footer4 {
+    display: block;
+    width: 100%;
     height: 310px;
+    background-color: #542b5b;
+    text-align: center;
+    padding-top: 170px;
+    margin: 0px 0px 0px 0px;
+    color: #ffffff;
+}
+
+.footer5 {
+    display: block;
+    width: 100%;
+    height: 200px;
     background-color: #542b5b;
     text-align: center;
     padding-top: 170px;
